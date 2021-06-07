@@ -1,2 +1,3 @@
-# empty-project-solidity
+#project-solidity
+
 # hardhat-ico
